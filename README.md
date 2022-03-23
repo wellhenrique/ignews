@@ -1,3 +1,6 @@
+
+# A aplicação ainda está em desenvolvimento
+
 <h1 align="center">
 
 <img src="./public/images/avatar.svg" alt="rocketshoes" width="100px"/>
@@ -51,10 +54,9 @@ As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pel
 
 ## :rocket: Tecnologias ##
 
-As seguintes tecnologias foram utilizadas no projeto:
+As seguintes tecnologias estao sendo utilizadas no projeto:
 
 - [Next.js](https://nextjs.org/)
-- [Prismic CMS](https://prismic.io/)
 - [Stripe](https://stripe.com/)
 - [FaunaDB](https://fauna.com/)
 
@@ -83,8 +85,8 @@ $ yarn dev
 ## :framed_picture: Imagens ##
 
 <h1 align="center">
-    <img alt = "Web app" src = "./public/images/image-01.svg" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-02.png" width = "500px" />
+    <img alt = "Web app" src = "public/images/image-01.png" widths = "500px" />
+    <img alt = "Web app" src = "public/images/image-02.png" width = "500px" />
 </h1>
 
 
