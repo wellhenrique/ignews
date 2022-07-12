@@ -1,5 +1,5 @@
 
-# A aplicação ainda está em desenvolvimento
+# Ignews
 
 <h1 align="center">
 
